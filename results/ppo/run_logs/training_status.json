@@ -1,0 +1,47 @@
+{
+    "DisplacementCap1Iver": {
+        "checkpoints": [
+            {
+                "steps": 267651,
+                "file_path": "results\\ppo\\DisplacementCap1Iver\\DisplacementCap1Iver-267651.onnx",
+                "reward": 24.752163847287495,
+                "creation_time": 1725645039.6943285,
+                "auxillary_file_paths": [
+                    "results\\ppo\\DisplacementCap1Iver\\DisplacementCap1Iver-267651.pt"
+                ]
+            },
+            {
+                "steps": 499936,
+                "file_path": "results\\ppo\\DisplacementCap1Iver\\DisplacementCap1Iver-499936.onnx",
+                "reward": 23.412085554179022,
+                "creation_time": 1725645322.3740318,
+                "auxillary_file_paths": [
+                    "results\\ppo\\DisplacementCap1Iver\\DisplacementCap1Iver-499936.pt"
+                ]
+            },
+            {
+                "steps": 500008,
+                "file_path": "results\\ppo\\DisplacementCap1Iver\\DisplacementCap1Iver-500008.onnx",
+                "reward": 23.327548059000485,
+                "creation_time": 1725645322.4110863,
+                "auxillary_file_paths": [
+                    "results\\ppo\\DisplacementCap1Iver\\DisplacementCap1Iver-500008.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500008,
+            "file_path": "results\\ppo\\DisplacementCap1Iver.onnx",
+            "reward": 23.327548059000485,
+            "creation_time": 1725645322.4110863,
+            "auxillary_file_paths": [
+                "results\\ppo\\DisplacementCap1Iver\\DisplacementCap1Iver-500008.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.4.0+cpu"
+    }
+}

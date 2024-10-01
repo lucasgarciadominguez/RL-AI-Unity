@@ -1,0 +1,42 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1725462367",
+        "python_version": "3.9.0 (tags/v3.9.0:9cf6752, Oct  5 2020, 15:34:40) [MSC v.1927 64 bit (AMD64)]",
+        "command_line_arguments": "D:\\TFG\\Iver Tales - TFG\\CBR-and-RL-AI-Unity\\venv\\Scripts\\mlagents-learn config/moveToGoal.yaml --run-id=FirstIssueDisplacement",
+        "mlagents_version": "0.30.0",
+        "mlagents_envs_version": "0.30.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "2.4.0+cpu",
+        "numpy_version": "1.21.2",
+        "end_time_seconds": "1725462388"
+    },
+    "total": 21.202089199999996,
+    "count": 1,
+    "self": 0.12655849999999447,
+    "children": {
+        "run_training.setup": {
+            "total": 0.28788190000000036,
+            "count": 1,
+            "self": 0.28788190000000036
+        },
+        "TrainerController.start_learning": {
+            "total": 20.787648800000003,
+            "count": 1,
+            "self": 0.00023280000000269752,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 20.787399100000002,
+                    "count": 1,
+                    "self": 20.787399100000002
+                },
+                "TrainerController._save_models": {
+                    "total": 1.689999999854308e-05,
+                    "count": 1,
+                    "self": 1.689999999854308e-05
+                }
+            }
+        }
+    }
+}

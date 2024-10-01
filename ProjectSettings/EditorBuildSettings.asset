@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Level/Scenes/Lucas_AI/AITest.unity
+    guid: 5a7d391ef05f02044bd687a0ba151c86
+  - enabled: 0
+    path: Assets/Level/Scenes/Miguel_UI/MainMenu New UI.unity
+    guid: 180111782a2269c4a972e9408c090cf2
+  - enabled: 0
+    path: Assets/Level/Scenes/Miguel_UI/MainMenu.unity
+    guid: 4e3070c0aff827c44b6c1e3efd1ba918
+  - enabled: 0
+    path: Assets/Level/Scenes/TestingLevel.unity
+    guid: 1507fd60a8c87d6448f71d3a7f9582d3
+  - enabled: 0
+    path: Assets/Level/Scenes/Level3Testing.unity
+    guid: fd63f1fc01481494a93cd784291a3039
+  - enabled: 0
+    path: Assets/Level/Scenes/Miguel_UI/Credits.unity
+    guid: b51977e3e4d0104449fcee9ada7ba970
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: fa5ca926940aa9747a4145279d83e2db, type: 2}
